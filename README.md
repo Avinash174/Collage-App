@@ -1,6 +1,6 @@
-# collage_app
+# Connector App
 
-A new Flutter project.
+A New Collage Connector App.
 
 ## Getting Started
 
